@@ -1,5 +1,5 @@
 // 배경
-const UNSPLASH_API_KEY = "3iu4LqKxCZPdtXVJOa2mHP95gJOzaviRkmZoVBWJZOg";
+const UNSPLASH_API_KEY = "y-lyjZP7NrllLLVWVW4B07ohK_NItnsn7ynr2hSK4r4";
 const UNSPLASH_URL = `https://api.unsplash.com/photos/random/?client_id=${UNSPLASH_API_KEY}&query=landscape&orientation=landscape`;
 
 const body = document.querySelector("body");
